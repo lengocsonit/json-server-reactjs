@@ -1,0 +1,4 @@
+{"page":{"width":8391,"height":11906,"pageColor":-1,"pageWidth":8391,"pageHeight":11906,"pageLandscape":false,"units":0},"connectors":[{"key":"2","locked":false,"zIndex":0,"points":[{"x":3420,"y":2340},{"x":4860,"y":2340}],"beginItemKey":"0","beginConnectionPointIndex":1,"endItemKey":"1","endConnectionPointIndex":3}],
+"shapes":[{"key":"0","locked":false,"zIndex":0,"type":"rectangle","text":"","x":1980,"y":1800,"width":1440,"height":1080},
+{"key":"1","locked":false,"zIndex":0,"type":"rectangle","text":"","x":4860,"y":1800,"width":1440,"height":1080},
+{"key":"3","locked":false,"zIndex":0,"type":"rectangle","text":"","x":0,"y":0,"width":1440,"height":1080}]}
